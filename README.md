@@ -6,7 +6,9 @@ This repository contains an interactive Tableau dashboard created to analyze and
 
 *(Insert a screenshot of your final dashboard here. You can drag and drop an image into the GitHub editor to upload it.)*
 
-`![Dashboard Preview](path/to/your/dashboard_screenshot.png)`
+`![Dashboard Preview]
+<img width="1920" height="1080" alt="Screenshot 2025-07-25 165921" src="https://github.com/user-attachments/assets/183fdeba-b0d2-4d18-bfaf-a2311bde4b2e" />
+
 
 ---
 
