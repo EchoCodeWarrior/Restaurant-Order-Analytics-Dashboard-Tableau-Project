@@ -4,9 +4,7 @@ This repository contains an interactive Tableau dashboard created to analyze and
 
 ## Dashboard Preview
 
-*(Insert a screenshot of your final dashboard here. You can drag and drop an image into the GitHub editor to upload it.)*
 
-`![Dashboard Preview]
 <img width="1920" height="1080" alt="Screenshot 2025-07-25 165921" src="https://github.com/user-attachments/assets/183fdeba-b0d2-4d18-bfaf-a2311bde4b2e" />
 
 
@@ -57,4 +55,4 @@ The analysis is based on a synthetic dataset named `restaurant_order_analytics_5
 
 ## Author
 
-*(Atharva Borhade)*
+*Atharva Borhade*
